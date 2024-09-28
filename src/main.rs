@@ -1,6 +1,6 @@
 mod funtions;
 mod if_else;
-
+mod loops;
 
 fn main() {
     let x: i32 = 500;
@@ -11,4 +11,5 @@ fn main() {
 
     funtions::my_function();
     if_else::main_if_else();
+    loops::loops_main();
 }
