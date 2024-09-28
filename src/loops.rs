@@ -24,8 +24,18 @@ fn loooooop(){
     }
 }
 
+fn whileeeeeeeeeeee(){
+    let mut count: i32 = 0;
+
+    while count < 5 {
+        println!("Count: {}", count);
+        count += 1;
+    }
+}
+
 
 pub fn loops_main(){
     // for_loop();
-    loooooop();
+    // loooooop();
+    whileeeeeeeeeeee();
 }
