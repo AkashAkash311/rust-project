@@ -35,7 +35,7 @@ fn whileeeeeeeeeeee(){
 
 
 pub fn loops_main(){
-    // for_loop();
-    // loooooop();
+    for_loop();
+    loooooop();
     whileeeeeeeeeeee();
 }
